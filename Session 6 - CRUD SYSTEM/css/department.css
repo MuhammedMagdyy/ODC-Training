@@ -1,0 +1,82 @@
+body {
+    margin: 0;
+    background-image: url("../img/white-concrete-wall.jpg");
+}
+
+.h2-departments {
+    margin-top: 5%;
+    margin-bottom: 5%;
+    text-align: center;
+    color: #25918a;
+    font-weight: bold;
+    font-size: 35px;
+}
+
+.mt-1 {
+    margin-top: 20px !important;
+    background-color: #2BBAB0;
+    width: 100%;
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 18px;
+    color: #fff;
+    background-color: #2BBAB0;
+    border-color: transparent;
+}
+
+.mt-1:hover {
+    background-color: #25918a;
+}
+
+.btn-edit {
+    background-color: #2BBAB0;
+    border-radius: 12px;
+    border-color: transparent;
+    width: 82.67px;
+}
+
+.btn-edit:hover {
+    background-color: #25918a;
+}
+
+.btn-remove {
+    border-radius: 12px;
+    border-color: transparent;
+}
+
+.btn-a:hover {
+    text-decoration: none;
+}
+
+.form-control {
+    border-radius: 12px;
+    padding: 20px;
+    font-size: 18px;
+}
+
+label {
+    color: #25918a;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+input {
+    margin-top: 10px;
+}
+
+fieldset {
+    border-radius: 18px;
+    background-color: #2bbab025;
+
+}
+
+th {
+    text-align: center;
+    color: #25918a;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+td {
+    text-align: center;
+}

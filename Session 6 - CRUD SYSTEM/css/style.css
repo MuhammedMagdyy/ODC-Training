@@ -1,0 +1,90 @@
+body {
+    margin: 0 !important;
+    padding: 0 !important;
+    background-image: url("../img/white-concrete-wall.jpg");
+}
+
+.h2-crud {
+    margin-top: 25%;
+    text-align: center;
+    color: #25918a;
+    font-weight: bold;
+    font-size: 35px;
+}
+
+
+.btn-admin {
+    background-color: #2BBAB0;
+    border-radius: 12px;
+    border-color: transparent;
+    width: 95.02px;
+    margin-right: 70px;
+    font-weight: bold;
+}
+
+.btn-admin:hover {
+    background-color: #25918a;
+}
+
+.btn-employee {
+    border-radius: 12px;
+    border-color: transparent;
+    font-weight: bold;
+}
+
+.btn-a:hover {
+    text-decoration: none;
+}
+
+.btn-div {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+nav {
+    width: 100% !important;
+    position: fixed !important;
+    top: 0;
+
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+.nav-link {
+    color: #2BBAB0 !important;
+}
+
+.nav-link:hover {
+    color: #25918a !important;
+}
+
+.form-control.mr-sm-2 {
+    margin: 0;
+    height: 40px;
+}
+
+.btn.btn-outline-success.my-2.my-sm-0 {
+    width: 40px;
+    height: 40px;
+    padding: 0;
+    margin: 0;
+    border-color: #2BBAB0;
+}
+
+.bi.bi-search {
+    padding: 0;
+    margin: 0;
+    fill: #2BBAB0;
+}
+
+.btn.btn-outline-success.my-2.my-sm-0:hover {
+    background-color: #25918a;
+}
+
+.text-center.pt-5 {
+    margin-top: 7%;
+}
